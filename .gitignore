@@ -1,0 +1,8 @@
+*.pyc
+
+build/
+backports.ssl_match_hostname.egg-info
+
+debian/files
+debian/python-backports.ssl-match-hostname.*
+debian/python-backports.ssl-match-hostname/
